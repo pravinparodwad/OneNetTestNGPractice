@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81" started-at="2022-07-14T12:58:59 IST" finished-at="2022-07-14T12:58:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81" started-at="2022-07-14T12:58:59 IST" finished-at="2022-07-14T12:58:59 IST">
+      <class name="com.test.CheckSequenceOfAnnotations">
+        <test-method status="PASS" signature="suiteTest()[pri:0, instance:com.test.CheckSequenceOfAnnotations@887af79]" name="suiteTest" is-config="true" duration-ms="15" started-at="2022-07-14T12:58:59 IST" finished-at="2022-07-14T12:58:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.test.CheckSequenceOfAnnotations@887af79]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-07-14T12:58:59 IST" finished-at="2022-07-14T12:58:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.CheckSequenceOfAnnotations@887af79]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-07-14T12:58:59 IST" finished-at="2022-07-14T12:58:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.CheckSequenceOfAnnotations@887af79]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-07-14T12:58:59 IST" finished-at="2022-07-14T12:58:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="actualTest()[pri:0, instance:com.test.CheckSequenceOfAnnotations@887af79]" name="actualTest" duration-ms="12" started-at="2022-07-14T12:58:59 IST" finished-at="2022-07-14T12:58:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actualTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.CheckSequenceOfAnnotations@887af79]" name="afterMethod" is-config="true" duration-ms="2" started-at="2022-07-14T12:58:59 IST" finished-at="2022-07-14T12:58:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.test.CheckSequenceOfAnnotations@887af79]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-07-14T12:58:59 IST" finished-at="2022-07-14T12:58:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.test.CheckSequenceOfAnnotations@887af79]" name="afterTest" is-config="true" duration-ms="1" started-at="2022-07-14T12:58:59 IST" finished-at="2022-07-14T12:58:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="aftersuiteTest()[pri:0, instance:com.test.CheckSequenceOfAnnotations@887af79]" name="aftersuiteTest" is-config="true" duration-ms="1" started-at="2022-07-14T12:58:59 IST" finished-at="2022-07-14T12:58:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuiteTest -->
+      </class> <!-- com.test.CheckSequenceOfAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

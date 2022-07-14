@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="none" name="TestSuite1">
+  <test name="Test1">
+  <parameter name = "myBrowser" value = "No" />
+  	<classes>
+  		<class name = "com.test.ParameterTest" />
+  	</classes>
+  </test> <!-- Test -->
+  
+
+</suite> <!-- TestSuite1 -->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="none" name="TestSuite1">
+  <test name="Test1">
+  	<classes>
+  		<class name = "com.test.SetupClass" />
+  		<class name = "com.test.SearchAmazon" />
+  		<class name = "com.test.SearchFlipkart" />
+  		<class name = "com.test.CleanupClass" />
+  	</classes>
+  </test> <!-- Test -->
+  
+  
+  <test name="Test2">
+  	<classes>
+  		<class name = "com.test.SetupClass" />
+  		<class name = "com.test.SearchFlipkart" />
+  		<class name = "com.test.SearchAmazon" />
+  		<class name = "com.test.CleanupClass" />
+  	</classes>
+  </test> <!-- Test -->
+</suite> <!-- TestSuite1 -->
